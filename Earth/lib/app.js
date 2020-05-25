@@ -1,5 +1,3 @@
-
-
 let scene = new THREE.Scene();
 let cam = new THREE.PerspectiveCamera(
     25,
